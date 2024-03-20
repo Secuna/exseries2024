@@ -1,3 +1,6 @@
+# Vulnerability Type: (CWE-915) Improperly Controlled Modification of Dynamically-Determined Object Attributes
+# Severity: High
+
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)

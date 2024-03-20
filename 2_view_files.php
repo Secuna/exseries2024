@@ -1,3 +1,6 @@
+<!-- Vulnerability Type: (CWE-78) Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') -->
+<!-- Severity: Critical -->
+
 <?php
 function listFiles($directory) {
     $output = shell_exec("ls $directory");

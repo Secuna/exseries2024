@@ -1,3 +1,6 @@
+# Vulnerability Type: (CWE-937) OWASP Top Ten 2013 Category A9 - Using Components with Known Vulnerabilities
+# Severity: High
+
 #!/usr/bin/python2
 import random
 import sqlite3

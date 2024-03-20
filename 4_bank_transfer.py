@@ -1,3 +1,6 @@
+# Vulnerability Type: (CWE-1284) Improper Validation of Specified Quantity in Input
+# Severity: Medium
+
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)

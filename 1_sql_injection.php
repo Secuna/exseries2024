@@ -1,3 +1,6 @@
+<!-- Vulnerability Type: (CWE-89) Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') -->
+<!-- Severity: Critical -->
+
 <?php
 // Establish database connection
 $servername = "localhost";

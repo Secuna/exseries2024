@@ -1,3 +1,6 @@
+# Vulnerability Type: (CWE-639) Authorization Bypass Through User-Controlled Key
+# Severity: High
+
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
